@@ -1,7 +1,7 @@
 ---
-title: "Introduction to R"
-author: "Riki Herliansyah,"
-date: "21/11/2021"
+title: "PSD minggu 3 Kelas B"
+author: "Nabila Putri Syam,"
+date: "07/02/2025"
 output: github_document
 
 ---
